@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Node()
+comment0.text=\n\ Constructs\ a\ node\ with\ no\ element.\n
+comment1.params=theElement
+comment1.target=Node(java.lang.Object)
+comment1.text=\n\ Constructs\ a\ Node\ with\ an\ element.\n\ @param\ theElement\ -\ element\ of\ the\ node.\n
+numComments=2

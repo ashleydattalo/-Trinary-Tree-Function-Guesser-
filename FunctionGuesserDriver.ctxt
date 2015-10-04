@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\n\ Main\ method\ to\ interact\ with\ user\n
+comment1.params=heightOfTree
+comment1.target=boolean\ beginGame(int)
+comment1.text=\n\ Starts\ a\ game\ of\ FunctionGuesser\n\ @param\ height\ of\ Tree\ -\ the\ height\ of\ the\ tree\n\ @returns\ true\ when\ they\ have\ guessed\ the\n\ \ correct\ functions\n
+comment2.params=
+comment2.target=int\ declareHeight()
+comment2.text=\n\ Allows\ a\ user\ to\ enter\ in\ the\ tree\ height\n\ @returns\ the\ int\ they\ entered\n
+numComments=3

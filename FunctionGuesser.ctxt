@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=height\ root
+comment0.target=FunctionGuesser(int,\ Node)
+comment0.text=\n\ Constructor\ for\ the\ FuctionGuesser\ game\n\ @param\ height\ -\ the\ height\ of\ the\ tree\n\ @param\ root\ -\ the\ root\ of\ the\ tree\n
+comment1.params=node\ nodeHeight
+comment1.target=void\ createTreeRec(Node,\ int)
+comment1.text=\n\ Recursive\ method\ to\ create\ a\ tree\ \n\ @pre\ height\ -\ the\ height\ of\ the\ tree\n\ @param\ node,\ the\ current\ node\n\ @param\ nodeHeight\ -\ the\ height\ of\ the\ node\n
+comment2.params=x\ row
+comment2.target=int\ function(int,\ int)
+comment2.text=\n\ Sets\ the\ node\ to\ the\ correct\ value;\n\ @pre\ -\ it's\ parent's\ elemnt\ is\ passed\ in\ as\ x,\n\ \ \ \ \ \ \ \ then\ the\ function\ performs\ it's\ operation\ \ \ \ \ \n\ \ \ \ \ \ \ \ on\ that\ value\n\ @param\ x\ -\ the\ parent's\ element\n\ @param\ row\ \:\ 2\ for\ left\ branch\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ 1\ for\ center\ branch\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ 0\ for\ right\ branch\n
+comment3.params=
+comment3.target=void\ coefficientGenerator()
+comment3.text=\n\ Randomly\ generates\ the\ coefficients\n\ for\ the\ function.\n
+comment4.params=curr\ indent
+comment4.target=void\ printTree(Node,\ int)
+comment4.text=\n\ Recursively\ prints\ out\ the\ tree\n\ @param\ curr\ -\ the\ current\ node\n\ @param\ indent\ -\ the\ correct\ indent\n\ \ corresponding\ to\ the\ height\ of\ the\ tree\n
+comment5.params=
+comment5.target=void\ printAnswers()
+comment5.text=\n\ Prints\ out\ the\ the\ answers\n
+comment6.params=
+comment6.target=int[][]\ getPolynomial()
+comment6.text=\n\ Returns\ the\ polynomial\ full\ of\ answers\n
+numComments=7
